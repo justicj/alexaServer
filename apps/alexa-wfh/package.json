@@ -1,0 +1,28 @@
+{
+  "name": "wfh-excuse-generator",
+  "version": "1.0.1",
+  "description": "First Version of the WFH Escuse Generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Jason Justice",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justicj/alexa_wfh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justicj/alexa_wfh/issues"
+  },
+  "homepage": "https://github.com/justicj/alexa_wfh#readme"
+}
