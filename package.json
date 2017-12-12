@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/justicj/alexaServer/issues"
   },
-  "homepage": "https://github.com/justicj/alexaServer#readme"
+  "homepage": "https://github.com/justicj/alexaServer#readme",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  }
 }
